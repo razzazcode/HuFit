@@ -10,7 +10,7 @@
         />
 
     <translate
-        android:fromXDelta="-300"
+        android:fromXDelta="-900"
         android:toXDelta="0"
         />
 
